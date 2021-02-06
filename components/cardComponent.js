@@ -13,7 +13,7 @@ export default class Card {
           <span class='card__text'>${title}</span>
         </div>
         <div class='card__button'>
-          <img src='../src/assets/images/arrow.jpg' class='card-button__image'>
+          <img src='../assets/images/arrow.jpg' class='card-button__image'>
         </div>
       </div>
     `);

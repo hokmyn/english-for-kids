@@ -1,6 +1,6 @@
-import cards from '../data/cards';
-import Card from './cardComponent';
-import Game from './gameComponent';
+import cards from '../data/cards.json';
+import Card from './cardComponent.js';
+import Game from './gameComponent.js';
 
 export default class Menu {
   constructor() {

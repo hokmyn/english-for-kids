@@ -1,4 +1,4 @@
-import cards from '../data/cards';
+import cards from '../data/cards.js';
 
 export default class Game {
   constructor() {

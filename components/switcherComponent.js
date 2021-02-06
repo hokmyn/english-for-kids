@@ -1,4 +1,4 @@
-import Game from './gameComponent';
+import Game from './gameComponent.js';
 
 export default class Switcher {
   constructor() {

@@ -1,4 +1,4 @@
-import cards from '../data/cards.json';
+import cards from '../data/cards.js';
 import Card from './cardComponent.js';
 import Game from './gameComponent.js';
 

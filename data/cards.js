@@ -122,8 +122,8 @@ const cards = [
     {
       word: 'dog',
       translation: 'собака',
-      image: '/assets/images/dog.jpg',
-      audioSrc: '/assets/sounds/dog.mp3',
+      image: './assets/images/dog.jpg',
+      audioSrc: './assets/sounds/dog.mp3',
     },
     {
       word: 'horse',
